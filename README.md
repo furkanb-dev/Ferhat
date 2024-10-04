@@ -1,5 +1,5 @@
 # Ferhat
- Hello everyone. The story of my game is about a software engineer named Ferhat who wants to stay on an isolated island away from the world for a while, and the events that happen to him on this island.
+ Hello everyone. The story of my game is about a software engineer named Ferhat who wants to stay on an isolated island away from the world for a while, and the events that happen to him on this island. My game is currently in development.
 
 ## Screenshots
  
